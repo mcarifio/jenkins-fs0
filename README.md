@@ -1,2 +1,3 @@
-# jenkins-fs0
-testing the jenkins github plugin
+# jenkins-smoketest
+
+An example jenkins job for the jenkins configuration-as-code plugin.
